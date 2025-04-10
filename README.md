@@ -34,3 +34,5 @@ Notice how the hash value varies with each character.
 Moving characters around changes the has value.
 <br>
 <br>
+
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/text-hash.windows)
